@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "departure" ALTER COLUMN "departureTime" SET DATA TYPE TIMESTAMP(3),
+ALTER COLUMN "arrivalTime" SET DATA TYPE TIMESTAMP(3);
